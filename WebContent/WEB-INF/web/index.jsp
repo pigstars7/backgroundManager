@@ -26,7 +26,7 @@
 		    #outtop #top_nav ul{ list-style: none; float: left; margin-left: 35px; line-height: 80px;}
 		    #outtop #top_nav ul li{ float: left;}
 		    #outtop #top_nav ul li a { color: #FFF; text-decoration: none; font-size: 16px; font-weight: 500; margin-right: 25px;}
-		    #outtop #top_nav ul li a:hover{ text-decoration: underline; }
+		    #outtop #top_nav ul li a:hover{ text-decoration: underline; color:black;}
 		    #outtop #top_nav span{ float: right; color: white; font-size: 16px; margin-right: 30px; line-height: 80px;}
 		    
 		    #top{height: 400px;}
@@ -179,7 +179,7 @@ display: -webkit-box;
 				</div>
 				 <ul>
 					  	    	<li><a href="#">首页</a></li>
-					  	    	<li><a href="web/house_list">海外房产</a></li>
+					  	    	<li><a href="#">海外房产</a></li>
 					  	    	<li><a href="#">国内旅居</a></li>
 					  	    	<li><a href="#">优家留学</a></li>
 					  	    	<li><a href="#">优家教育</a></li>
